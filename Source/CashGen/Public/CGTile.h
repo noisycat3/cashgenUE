@@ -3,7 +3,7 @@
 #include "Cashgen/Public/Struct/CGIntVector2.h"
 
 #include <Runtime/Engine/Classes/Components/SphereComponent.h>
-#include <ProceduralMeshComponent/Public/ProceduralMeshComponent.h>
+#include <ProceduralMeshComponent.h>
 
 #include "CGTile.generated.h"
 

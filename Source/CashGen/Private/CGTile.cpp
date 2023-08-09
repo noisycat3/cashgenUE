@@ -2,7 +2,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "Struct/CGTerrainConfig.h"
 
-#include <ProceduralMeshComponent/Public/ProceduralMeshComponent.h>
+#include <ProceduralMeshComponent.h>
 
 DECLARE_CYCLE_STAT(TEXT("CashGenStat ~ RMCUpdate"), STAT_RMCUpdate, STATGROUP_CashGenStat);
 

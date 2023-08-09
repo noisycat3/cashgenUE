@@ -1,6 +1,6 @@
 #pragma once
 
-#include <ProceduralMeshComponent/Public/ProceduralMeshComponent.h>
+#include <ProceduralMeshComponent.h>
 
 #include "CGMeshData.generated.h"
 
